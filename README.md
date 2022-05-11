@@ -1,1 +1,1 @@
-# CS1332
+# CS1332-Data Structures and Algorithms
